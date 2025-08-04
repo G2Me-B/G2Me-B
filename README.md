@@ -1,8 +1,8 @@
 ## Hi there👋, I am G2Me-B
-I design backend systems and API using NodeJS(mostly), Flask and PHP
-I do my best to add frontend systems to match my backend logic.
-🚀 Passionate about learning and growth, both professionally and personally.
-🤝 Open to collaboration & learning —let's connect! 🌐 >> Feel free to reach out via linkedIn
+- I design backend systems and API using NodeJS(mostly), Flask and PHP.
+- I do my best to add frontend systems to match my backend logic.
+- 🚀 Passionate about learning and growth, both professionally and personally.
+- 🤝 Open to collaboration & learning —let's connect! 🌐 >> Feel free to reach out via linkedIn
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bubuney-doe-kiinnii-944117231) 
 
