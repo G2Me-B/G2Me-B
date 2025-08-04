@@ -1,5 +1,5 @@
 ## Hi there👋, I am G2Me-B
-- I design backend systems and API using NodeJS(mostly), Flask and PHP.
+- I design backend systems and APIs using NodeJS(mostly), Flask and PHP.
 - I do my best to add frontend systems to match my backend logic.
 - 🚀 Passionate about learning and growth, both professionally and personally.
 - 🤝 Open to collaboration & learning —let's connect! 🌐 >> Feel free to reach out via linkedIn
