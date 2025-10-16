@@ -1,4 +1,4 @@
-## Hi there👋, I am G2Me-B
+## Hi there👋, I am Bubuney
 - I design backend systems and APIs using NodeJS(mostly), Flask and PHP.
 - I do my best to add frontend systems to match my backend logic.
 - 🚀 Passionate about learning and growth, both professionally and personally.
